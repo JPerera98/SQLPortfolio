@@ -6,7 +6,7 @@ understood unless mentioned eg: repetive data to be added into database.
 
 In this code we used Postgres and Excel.
 
-This tutorial was based on a youtube video by "Data with mo" where he shows how to setup and create various tables with primary and foreign keys, veiw specific infomation using WHERE, AND, OR
+This tutorial was based on a youtube video by "Data with mo" where he shows how to setup and create various tables with primary and foreign keys, veiw specific infomation using WHERE, AND, OR, JOIN
 statements and manipulating/deleting and inserting data along with many other functions.
 
 This is a work inprogress :)
